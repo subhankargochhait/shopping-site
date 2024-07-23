@@ -1,0 +1,15 @@
+.para{
+background-color: black;
+color: white;
+text-align: center;
+align-items: center;
+padding: 5px;
+
+}
+.frame600{
+    height: 500px;
+    width: 1170px;
+}
+.margin1{
+    margin-right: 200px;
+}
